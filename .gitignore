@@ -1,0 +1,12 @@
+# Ignore the dataset folder
+brain_tumor_dataset/
+
+# Ignore the virtual environment
+venv/
+.env
+__pycache__/
+.DS_Store
+
+# Optional: Ignore the model if it's over 100MB (GitHub limit)
+# If your model is small, you can remove this line.
+*.h5
