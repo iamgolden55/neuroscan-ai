@@ -2,7 +2,9 @@
 
 A deep learning medical diagnostic tool built to detect brain tumors from MRI scans. This project implements a full end-to-End pipeline: form data preprocessing and CNN model training to a user-friendly Streamlit web interface with built-in safety guardrails.
 
-![Demo App Screenshot](put_your_screenshot_here.png)
+<img width="2560" height="1080" alt="Image 07-12-2025 at 2 53 PM" src="https://github.com/user-attachments/assets/30ae7365-e16d-44a6-a8d0-c2879758ef38" />
+<img width="1267" height="993" alt="Image 07-12-2025 at 3 15 PM" src="https://github.com/user-attachments/assets/7d843d4f-a757-4560-afd1-713064ca33cb" />
+
 
 ## 🚀 Key Features
 
